@@ -20,6 +20,7 @@
 * AI Health Risk Analyzer
 * Java Code Review Tool
 * Smart Calorie and Nutrition Tracker
+* JobPortal
 
 ---
 
