@@ -10,8 +10,6 @@
 * Programming: Java, Python, C++
 * Web: HTML, CSS, JavaScript, React
 * Backend: Flask, Node.js
-* Tools: Git, GitHub
-* DSA: Striver A2Z Sheet
 
 ---
 
